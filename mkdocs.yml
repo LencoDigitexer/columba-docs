@@ -55,15 +55,4 @@ nav:
 extra_css:
   - css/extra.css
 
-# Список подключённых расширений для препроцессора языка Markdown
-markdown_extensions:
-  - toc:
-      permalink: 
-  - admonition
-  - attr_list
-  - def_list
-  - mdx_gh_links:
-      user: mkdocs
-      repo: mkdocs
-
 copyright: Copyright &copy; 2024 <a href="https://github.com/Dzhigit/columba">columba.</a>.
