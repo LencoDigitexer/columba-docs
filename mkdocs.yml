@@ -48,10 +48,15 @@ nav:
       - Translations: dev-guide/translations.md
       - Plugins: dev-guide/plugins.md
   - API:
+      - Использование API:
+          - Обзор: api/usage/overview.md
+          - Быстрый старт: api/usage/getting-started.md
+          - Формат запросов: api/usage/api-requests.md
+          - Диалог авторизации OAuth: api/usage/oauth-parameters.md
+      - Версии API:  api/version/version-index.md
+      - Методы API: api/method-index.md
       - auth: api/auth/auth-index.md
-      - messages: dev-guide/themes.md
-      - Translations: dev-guide/translations.md
-      - Plugins: dev-guide/plugins.md
+      - messages: api/messages/messages-index.md
   - About:
       - Release Notes: about/release-notes.md
       - Contributing: about/contributing.md
