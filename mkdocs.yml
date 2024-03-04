@@ -67,12 +67,3 @@ markdown_extensions:
       repo: mkdocs
 
 copyright: Copyright &copy; 2024 <a href="https://github.com/Dzhigit/columba">columba.</a>.
-
-# Список использованных плагинов MkDocs
-plugins:
-  - search
-  - redirects:
-      redirect_maps:
-        user-guide/plugins.md: dev-guide/plugins.md
-        user-guide/custom-themes.md: dev-guide/themes.md
-        user-guide/styling-your-docs.md: user-guide/choosing-your-theme.md
