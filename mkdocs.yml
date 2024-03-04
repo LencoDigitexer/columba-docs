@@ -47,6 +47,11 @@ nav:
       - Themes: dev-guide/themes.md
       - Translations: dev-guide/translations.md
       - Plugins: dev-guide/plugins.md
+  - API:
+      - auth: api/auth/auth-index.md
+      - messages: dev-guide/themes.md
+      - Translations: dev-guide/translations.md
+      - Plugins: dev-guide/plugins.md
   - About:
       - Release Notes: about/release-notes.md
       - Contributing: about/contributing.md
